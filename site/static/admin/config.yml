@@ -10,7 +10,7 @@
 
   backend: {
       name: 'github', # Name of your git hosting service (ie. github, gitlab)
-      repo: 'your-username/your-repo-name', # Path to your GitHub repository
+      repo: 'kleberbg8/debora', # Path to your GitHub repository
     },
 
   #########################################################################
