@@ -9,7 +9,7 @@ module.exports = {
       resolve: '@elegantstack/gatsby-theme-flexiblog-news',
       options: {
         sources: {
-          local: true
+          local: false
         }
       }
     }
