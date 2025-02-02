@@ -6,7 +6,7 @@ module.exports = {
     },
     {
       // ATTENTION: Match the theme name with the theme you're using
-      resolve: '@elegantstack/gatsby-starter-flexiblog-news',
+      resolve: '@elegantstack/gatsby-theme-flexiblog-news',
       options: {
         sources: {
           local: true
