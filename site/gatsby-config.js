@@ -17,11 +17,11 @@ module.exports = {
   // Customize your site metadata:
   siteMetadata: {
     //General Site Metadata
-    title: 'FlexiBlog Theme',
+    title: 'Jornal do Estado',
     name: 'FlexiBlog',
     description: 'My site description...',
     address: 'New York, NY',
-    email: 'email@example.com',
+    email: 'email@example.cosm',
     phone: '+1 (888) 888-8888',
 
     //Site Social Media Links
